@@ -3,14 +3,6 @@
     "symbol": "HKRTRK",
     "description": "We are currently monitoring your transaction history due to a report indicating that this wallet may be associated with hacking activity. If you believe this report is in error, please file a dispute by contacting us at dispute@hackertrackersol.com.",
     "image": "https://raw.githubusercontent.com/HackerTrackerSol/Metadata/refs/heads/main/weAreWatchingYou.jpeg",
-    "properties": {
-      "files": [
-        {
-          "uri": "https://raw.githubusercontent.com/HackerTrackerSol/Metadata/refs/heads/main/weAreWatchingYou.jpeg",
-          "type": "image/png"
-        }
-      ]
-    },
     "attributes": [
       {
         "trait_type": "Created",
@@ -21,7 +13,4 @@
         "value": "Following your transactions."
       }
     ],
-    "additional_info": {
-      "contact_email": "dispute@hackertrackersol.com",
-    }
   }
